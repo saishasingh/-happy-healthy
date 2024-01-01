@@ -1,0 +1,81 @@
+#IMG{
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+   opacity: 0.8;
+    width: 100%;
+    height: 100%;
+    
+   
+}
+#vegetables{
+
+  border-radius: 0%;
+  height: 2px;
+  width: 2px;
+}
+
+.centered {
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+   font-size: 60px;
+    color: black;
+    font-family: cursive;
+    
+
+  }
+  P{
+    font-size:15PX;
+  }
+  .bottom-left {
+    position:absolute;
+    
+    bottom: 2%;
+    left: 16px;
+    display: flex;
+   align-items: flex-end;
+   flex-direction: column;
+   justify-content: flex-end;
+    font-size: 20px;
+    
+  }
+  span{
+    background-color: white;
+    display: inline-flex;
+    width: 100%;
+    font-size: 5px;
+  }
+  #service{
+    top: 0%;
+    font-size: 5px;
+    width: 100%;
+  }
+  #div,#ss{
+    display: inline-flex;
+    flex-direction: row;
+     line-height: 3px;
+    background-color: black;
+    color: white;
+    width: 100%;
+
+   top: 1%;
+   border-radius: 2px;
+   height: fit-content;
+   
+   
+   
+   
+
+  
+  }
+  #wh{
+    max-width: 90px;
+    max-height: 90px;
+  }
+  li{
+    color: black;
+  }
+  
